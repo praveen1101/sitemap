@@ -3,8 +3,8 @@
     <url>
         <loc>https://www.healthpartners.com/provider-secure/eligibility/</loc>
         <coveo:metadata>
-            <title>eligibility Inquiry</title>
-            <description>Allows you to determine a member's eligibility and copayment for particular services.</description>
+            <providerTitle>eligibility Inquiry</providerTitle>
+            <providerDescription>Allows you to determine a member's eligibility and copayment for particular services.</providerDescription>
             <type>application</type>
             <authentication>secure</authentication>
             <!-- Use CDATA to safely include special characters -->
@@ -14,8 +14,8 @@
     <url>
         <loc>https://www.healthpartners.com/provider-secure/claims-estimator/</loc>
         <coveo:metadata>
-            <title>Claim Estimator</title>
-            <description>Allows you to calculate real time claim payment estimations based on the information available when the request is processed. Estimates are provided for professional and dental claim types.</description>
+            <providerTitle>Claim Estimator</providerTitle>
+            <providerDescription>Allows you to calculate real time claim payment estimations based on the information available when the request is processed. Estimates are provided for professional and dental claim types.</providerDescription>
             <type>application</type>
             <authentication>secure</authentication>
             <!-- Use CDATA to safely include special characters -->
@@ -25,8 +25,8 @@
     <url>
         <loc>https://www.healthpartners.com/provider-secure/csi/</loc>
         <coveo:metadata>
-            <title>Claim Status Search</title>
-            <description>Allows you to check the status of the claims that have been submitted to HealthPartners.</description>
+            <providerTitle>Claim Status Search</providerTitle>
+            <providerDescription>Allows you to check the status of the claims that have been submitted to HealthPartners.</providerDescription>
             <type>application</type>
             <authentication>secure</authentication>
             <!-- Use CDATA to safely include special characters -->
@@ -36,8 +36,8 @@
     <url>
         <loc>https://www.healthpartners.com/provider-secure/remittance/</loc>
         <coveo:metadata>
-            <title>Remittance Inquiry</title>
-            <description>Allows you to review, check or audit claim data corresponding to a remittance check, which covers a batch of submitted claims.</description>
+            <providerTitle>Remittance Inquiry</providerTitle>
+            <providerDescription>Allows you to review, check or audit claim data corresponding to a remittance check, which covers a batch of submitted claims.</providerDescription>
             <type>application</type>
             <authentication>secure</authentication>
             <!-- Use CDATA to safely include special characters -->
