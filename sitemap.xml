@@ -5,7 +5,7 @@
         <coveo:metadata>
             <providerTitle>eligibility Inquiry</providerTitle>
             <providerDescription>Allows you to determine a member's eligibility and copayment for particular services.</providerDescription>
-            <type>application</type>
+            <providerType>admin</providerType>
             <authentication>secure</authentication>
             <!-- Use CDATA to safely include special characters -->
             <notes><![CDATA[ Clicking Eligibility on the Home Page displays an Eligibility Inquiry Disclaimer page. After reviewing the disclaimer information, clicking the I understand button displays the Eligibility Inquiry Search page. This page allows you to perform a member eligibility inquiry. ]]></notes>
@@ -16,7 +16,7 @@
         <coveo:metadata>
             <providerTitle>Claim Estimator</providerTitle>
             <providerDescription>Allows you to calculate real time claim payment estimations based on the information available when the request is processed. Estimates are provided for professional and dental claim types.</providerDescription>
-            <type>application</type>
+            <providerType>delegate</providerType>
             <authentication>secure</authentication>
             <!-- Use CDATA to safely include special characters -->
             <notes><![CDATA[ Clicking Claim Estimator from the Home Page displays the Search page. This page allows you to perform a search for the desired member per the member's number or name. ]]></notes>
@@ -27,7 +27,7 @@
         <coveo:metadata>
             <providerTitle>Claim Status Search</providerTitle>
             <providerDescription>Allows you to check the status of the claims that have been submitted to HealthPartners.</providerDescription>
-            <type>application</type>
+            <providerType>user</providerType>
             <authentication>secure</authentication>
             <!-- Use CDATA to safely include special characters -->
             <notes><![CDATA[ Clicking Claims Status Inquiry from the Home Page displays the following Claim Status Inquiry application, which allows you to perform a claim status inquiry. The Search page allows you to perform specific searches per member number (default search tab setting), patient control number, or claim number. ]]></notes>
@@ -38,7 +38,7 @@
         <coveo:metadata>
             <providerTitle>Remittance Inquiry</providerTitle>
             <providerDescription>Allows you to review, check or audit claim data corresponding to a remittance check, which covers a batch of submitted claims.</providerDescription>
-            <type>application</type>
+            <providerType>support</providerType>
             <authentication>secure</authentication>
             <!-- Use CDATA to safely include special characters -->
             <notes><![CDATA[ Clicking Remittance Inquiry on the Home Page displays the Remittance Inquiry application, which allows you to review, check or audit the claim data that corresponds to a remittance check that covers a batch of submitted claims. The Search tab allows you to perform specific searches per check or EFT number (default search tab setting), or per claim number. It also displays a list of remits when performing a search per provider information. ]]></notes>
