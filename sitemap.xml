@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.w3.org/TR/xhtml11/xhtml11_schema.html http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" xmlns:coveo="https://www.coveo.com/en/company/about-us" xmlns:xhtml="http://www.w3.org/TR/xhtml11/xhtml11_schema.html">
     <url>
         <loc>https://www.healthpartners.com/provider-secure/eligibility/</loc>
-        <title>eligibility Inquiry</title>
-        <description>Allows you to determine a member's eligibility and copayment for particular services.</description>
         <coveo:metadata>
+            <title>eligibility Inquiry</title>
+            <description>Allows you to determine a member's eligibility and copayment for particular services.</description>
             <type>application</type>
             <authentication>secure</authentication>
             <!-- Use CDATA to safely include special characters -->
@@ -13,9 +13,9 @@
     </url>
     <url>
         <loc>https://www.healthpartners.com/provider-secure/claims-estimator/</loc>
-        <title>Claim Estimator</title>
-        <description>Allows you to calculate real time claim payment estimations based on the information available when the request is processed. Estimates are provided for professional and dental claim types.</description>
         <coveo:metadata>
+            <title>Claim Estimator</title>
+            <description>Allows you to calculate real time claim payment estimations based on the information available when the request is processed. Estimates are provided for professional and dental claim types.</description>
             <type>application</type>
             <authentication>secure</authentication>
             <!-- Use CDATA to safely include special characters -->
@@ -24,9 +24,9 @@
     </url>
     <url>
         <loc>https://www.healthpartners.com/provider-secure/csi/</loc>
-        <title>Claim Status Search</title>
-        <description>Allows you to check the status of the claims that have been submitted to HealthPartners.</description>
         <coveo:metadata>
+            <title>Claim Status Search</title>
+            <description>Allows you to check the status of the claims that have been submitted to HealthPartners.</description>
             <type>application</type>
             <authentication>secure</authentication>
             <!-- Use CDATA to safely include special characters -->
@@ -35,9 +35,9 @@
     </url>
     <url>
         <loc>https://www.healthpartners.com/provider-secure/remittance/</loc>
-        <title>Remittance Inquiry</title>
-        <description>Allows you to review, check or audit claim data corresponding to a remittance check, which covers a batch of submitted claims.</description>
         <coveo:metadata>
+            <title>Remittance Inquiry</title>
+            <description>Allows you to review, check or audit claim data corresponding to a remittance check, which covers a batch of submitted claims.</description>
             <type>application</type>
             <authentication>secure</authentication>
             <!-- Use CDATA to safely include special characters -->
