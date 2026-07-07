@@ -8,7 +8,7 @@
             <type>application</type>
             <authentication>secure</authentication>
             <!-- Use CDATA to safely include special characters -->
-            <notes><![CDATA[ Clicking Eligibility on the Home Page displays an Eligibility Inquiry Disclaimer page. After reviewing the disclaimer information, clicking the I understand button displays the Eligibility Inquiry Search page. This page allows you to perform a member eligibility inquiry. ]]></notes>
+            <notes><![CDATA[ Clicking Eligibility on the Home Page displays an Eligibility Inquiry Disclaimer page. After reviewing the disclaimer information, clicking the I understand button displays the Eligibility Inquiry Search page. This page allows you to perform a member eligibility inquiry. ]]</notes>
         </coveo:metadata>
     </url>
     <url>
