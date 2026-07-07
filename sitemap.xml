@@ -26,7 +26,7 @@
         <loc>https://www.healthpartners.com/provider-secure/csi/</loc>
         <coveo:metadata>
             <title><![CDATA[ Claim Status Search ]]</title>
-            <description<![CDATA[ >Allows you to check the status of the claims that have been submitted to HealthPartners. ]]</description>
+            <description<![CDATA[ Allows you to check the status of the claims that have been submitted to HealthPartners. ]]</description>
             <type>application</type>
             <authentication>secure</authentication>
             <!-- Use CDATA to safely include special characters -->
