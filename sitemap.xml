@@ -64,8 +64,14 @@
     </url>
     <url>
         <loc>https://www.healthpartners.com/ucm/groups/public/@hp/@public/documents/documents/vgn_pdf_57883.pdf</loc>
+        <coveo:metadata>
+            <providertitle>pdf 1</providertitle>
+        </coveo:metadata>
     </url>
     <url>
         <loc>https://www.healthpartners.com/ucm/groups/public/@hp/@public/documents/documents/vgn_pdf_58177.pdf</loc>
+        <coveo:metadata>
+            <providertitle>pdf 2</providertitle>
+        </coveo:metadata>
     </url>
 </urlset>
